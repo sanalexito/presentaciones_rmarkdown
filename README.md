@@ -6,7 +6,7 @@ Se incluye también un style.css elemental para fijar la imagen del INEGI en la 
 
 ![image](https://github.com/sanalexito/presentaciones_rmarkdown/assets/65984679/77b2a49d-f9e0-4fa6-8d73-1ed067c71d92)
 
-Algo importante es la facilidad para meter ecuaciones a partir de código LaTex 
+Algo importante es la facilidad para meter ecuaciones a partir de código LaTex con lo que se hace más simple la creación de reportes técnicos.
 
 ![image](https://github.com/sanalexito/presentaciones_rmarkdown/assets/65984679/ac12e019-e51a-4733-94c1-e473137a56b2){width = 50rem}
 
