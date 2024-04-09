@@ -1,4 +1,4 @@
-# presentaciones_rmarkdown
+# Presentaciones con Rmarkdown
 Una forma útil para hacer presentaciones interactivas y por suspuesto vistosas es con Rmarkdown. 
 En este repositorio está un ejemplo sencillo pero muy ilustrativo de cómo se puede hacer una presentación haciendo uso de diferentes recursos e incorporando textos en formato científico a partir de código LaTex.
 
