@@ -8,7 +8,7 @@ Se incluye también un style.css elemental para fijar la imagen del INEGI en la 
 
 Algo importante es la facilidad para meter ecuaciones a partir de código LaTex 
 
-![image](https://github.com/sanalexito/presentaciones_rmarkdown/assets/65984679/ac12e019-e51a-4733-94c1-e473137a56b2){width = 50%}
+![image](https://github.com/sanalexito/presentaciones_rmarkdown/assets/65984679/ac12e019-e51a-4733-94c1-e473137a56b2){width = 50rem}
 
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
