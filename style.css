@@ -1,0 +1,9 @@
+body {
+  height: 900px;
+  background-image: url("https://www.quadratin.com.mx/www/wp-content/uploads/2017/08/logo-inegi.jpg");
+  background-size: cover;
+  background-size: 15rem;
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-attachment: fixed;  
+}
