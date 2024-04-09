@@ -10,7 +10,8 @@ Algo importante, como ya mencioné, es la capacidad para meter ecuaciones a part
 
 ![image](https://github.com/sanalexito/presentaciones_rmarkdown/assets/65984679/ac12e019-e51a-4733-94c1-e473137a56b2)
 
-R
+<p><H3 align="center"><strong> Nada humano me es ajeno </strong></p>
+
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
   
