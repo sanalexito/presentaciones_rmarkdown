@@ -9,7 +9,8 @@ Se incluye también un style.css elemental para fijar la imagen del INEGI en la 
 Algo importante, como ya mencioné, es la capacidad para meter ecuaciones a partir de código LaTex con lo que se hace más simple la creación de reportes técnicos. Este tipo de formato va entre signo de pesos o si se requiere en líneas separadas se pone entre signo doble de pesos. Por ejemplo:
 
 $$\vec{\nabla} \cdot \vec{E} = \dfrac{\rho}{\epsilon_0} & \qquad \mbox{Ley de Gauss}$$
- 
+
+ Con lo que se pueden escribir ecuaciones complejas con tipografía profesional
 ![image](https://github.com/sanalexito/presentaciones_rmarkdown/assets/65984679/ac12e019-e51a-4733-94c1-e473137a56b2)
 
 <p><H3 align="center"><strong> Nada humano me es ajeno </strong></p>
